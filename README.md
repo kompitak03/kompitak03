@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nut
 - 👀 I’m interested in Code, Drink and Game
-- 🌱 I’m currently learning Angular, React, Java and Node JS
+- 🌱 I’m currently learning Angular, React, Node JS, JavaScript, Typescript and Flutter
 - 📫 How to reach me
   - Email to me: kompitak.f@gmail.com
   - Call me +66900269997
